@@ -1,0 +1,12 @@
+{
+  "name": "add-watermark-app",
+  "version": "1.0.0",
+  "description": "Apllication to add watermark to an image",
+  "main": "app.js",
+  "repository": "git@github.com:mikolajszydlo/add-watermark-app.git",
+  "author": "Mikolaj Szydlo <mikolaj.szydlo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
